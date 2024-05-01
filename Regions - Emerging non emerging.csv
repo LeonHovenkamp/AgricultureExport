@@ -1,0 +1,165 @@
+Lfd_Nr;Region_acronyms;Region_names;
+1;XAM;Rest of Americas;#N/A
+2;XEU;Rest of Europe;#N/A
+3;XAF;Rest of Africa;#N/A
+4;XAS;Rest of Asia-Pacific;#N/A
+5;AFG;Afghanistan;Global South
+6;AGO;Angola;Global South
+7;ALB;Albania;Global South
+8;ARE;United Arab Emirates;Global South
+9;ARG;Argentina;Global South
+10;ARM;Armenia;Global South
+11;AUS;Australia;Global North
+12;AUT;Austria;Global North
+13;AZE;Azerbaijan;Global South
+14;BDI;Burundi;Global South
+15;BEL;Belgium;Global North
+16;BEN;Benin;Global South
+17;BFA;Burkina Faso;Global South
+18;BGD;Bangladesh;Global South
+19;BGR;Bulgaria;Global South
+20;BHR;Bahrain;Global South
+21;BHS;Bahamas;Global South
+22;BIH;Bosnia and Herzegovina;Global South
+23;BLR;Belarus;Global South
+24;BLZ;Belize;Global South
+25;BOL;Bolivia;Global South
+26;BRA;Brazil;Global South
+27;BRN;Brunei Darussalam;Global South
+28;BTN;Bhutan;Global South
+29;BWA;Botswana;Global South
+30;CAF;Central African Republic;Global South
+31;CAN;Canada;Global North
+32;CHE;Switzerland;Global North
+33;CHL;Chile;Global South
+34;CHN;China;Global South
+35;CIV;Cote d'Ivoire;Global South
+36;CMR;Cameroon;Global South
+37;COD;Democratic Republic of the Congo;Global South
+38;COG;Republic of Congo;Global South
+39;COL;Colombia;Global South
+40;CRI;Costa Rica;Global South
+41;CUB;Cuba;Global South
+42;CYP;Cyprus;Global North
+43;CZE;Czech Republic;Global North
+44;DEU;Germany;Global North
+45;DJI;Djibouti;Global South
+46;DYE;DR Yemen (Aden);Global South
+47;DNK;Denmark;Global North
+48;DOM;Dominican Republic;Global South
+49;DZA;Algeria;Global South
+50;ECU;Ecuador;Global South
+51;EGY;Egypt;Global South
+52;ERI;Eritrea;Global South
+53;ESP;Spain;Global North
+54;EST;Estonia;Global North
+55;ETH;Ethiopia;Global South
+56;FIN;Finland;Global North
+57;FRA;France;Global North
+58;GAB;Gabon;Global South
+59;GBR;United Kingdom;Global North
+60;GEO;Georgia;Global South
+61;GHA;Ghana;Global South
+62;GIN;Guinea;Global South
+63;GMB;Gambia;Global South
+64;GNQ;Equatorial Guinea;Global South
+65;GRC;Greece;Global North
+66;GTM;Guatemala;Global South
+67;HND;Honduras;Global South
+68;HKG;Hong Kong;Global North
+69;HRV;Croatia;Global North
+70;HTI;Haiti;Global South
+71;HUN;Hungary;Global South
+72;IDN;Indonesia;Global South
+73;IND;India;Global South
+74;IRL;Ireland;Global North
+75;IRN;Iran;Global South
+76;IRQ;Iraq;Global South
+77;ISL;Iceland;Global North
+78;ISR;Israel;Global North
+79;ITA;Italy;Global North
+80;JAM;Jamaica;Global South
+81;JOR;Jordan;Global South
+82;JPN;Japan;Global North
+83;KAZ;Kazakhstan;Global South
+84;KEN;Kenya;Global South
+85;KGZ;Kyrgyzstan;Global South
+86;KHM;Cambodia;Global South
+87;KOR;South Korea;Global North
+88;KWT;Kuwait;Global South
+89;LAO;Laos;Global South
+90;LBN;Lebanon;Global South
+91;LBR;Liberia;Global South
+92;LBY;Libya;Global South
+93;LKA;Sri Lanka;Global South
+94;LTU;Lithuania;Global South
+95;LUX;Luxembourg;Global North
+96;LVA;Latvia;Global North
+97;MAR;Morocco;Global South
+98;MDA;Moldova;Global South
+99;MDG;Madagascar;Global South
+100;MEX;Mexico;Global South
+101;MKD;Macedonia;Global South
+102;MLI;Mali;Global South
+103;MLT;Malta;Global North
+104;MMR;Myanmar;Global South
+105;MNG;Mongolia;Global South
+106;MOZ;Mozambique;Global South
+107;MRT;Mauritania;Global South
+108;MWI;Malawi;Global South
+109;MYS;Malaysia;Global South
+110;NAM;Namibia;Global South
+111;NER;Niger;Global South
+112;NGA;Nigeria;Global South
+113;NIC;Nicaragua;Global South
+114;NLD;Netherlands;Global North
+115;NOR;Norway;Global North
+116;NPL;Nepal;Global South
+117;NZL;New Zealand;Global North
+118;OMN;Oman;Global South
+119;PAK;Pakistan;Global South
+120;PSE;Palestine;#N/A
+121;PAN;Panama;Global South
+122;PER;Peru;Global South
+123;PHL;Philippines;Global South
+124;PNG;Papua New Guinea;Global South
+125;POL;Poland;Global South
+126;PRK;North Korea;Global South
+127;PRT;Portugal;Global North
+128;PRY;Paraguay;Global South
+129;QAT;Qatar;Global South
+130;ROU;Romania;Global South
+131;RUS;Russian Federation;Global South
+132;RWA;Rwanda;Global South
+133;SAU;Saudi Arabia;Global South
+134;SDS;South Sudan;Global South
+135;SEN;Senegal;Global South
+136;SGP;Singapore;Global North
+137;SLE;Sierra Leone;Global South
+138;SLV;El Salvador;Global South
+139;SOM;Somalia;Global South
+140;SRB;Serbia;Global South
+141;SDN;Sudan;Global South
+142;SVK;Slovakia;Global North
+143;SVN;Slovenia;Global North
+144;SWE;Sweden;Global North
+145;SYR;Syria;Global South
+146;TCD;Chad;Global South
+147;TGO;Togo;Global South
+148;THA;Thailand;Global South
+149;TJK;Tajikistan;Global South
+150;TKM;Turkmenistan;Global South
+151;TUN;Tunisia;Global South
+152;TUR;Turkey;Global South
+153;TZA;Tanzania;Global South
+154;UGA;Uganda;Global South
+155;UKR;Ukraine;Global South
+156;URY;Uruguay;Global South
+157;USA;United States of America;Global North
+158;UZB;Uzbekistan;Global South
+159;VEN;Venezuela;Global South
+160;VNM;Viet Nam;Global South
+161;YEM;Yemen;Global South
+162;ZAF;South Africa;Global South
+163;ZMB;Zambia;Global South
+164;ZWE;Zimbabwe;Global South
